@@ -1,7 +1,7 @@
-import Projects from "./Projects";
-import Main from "./Main";
-import About from "./About";
-import Contact from "./Contact";
+import Projects from "./components/Projects";
+import Main from "./components/Main";
+import About from "./components/About";
+import Contact from "./components/Contact";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 
 
