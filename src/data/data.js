@@ -1,4 +1,4 @@
-export default {
+const data =  {
   
   name: "Yigit",
   job: "Front-End Developer",
@@ -87,3 +87,6 @@ export default {
 
   ]
 }
+
+
+export default data;
