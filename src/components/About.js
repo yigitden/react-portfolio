@@ -1,5 +1,5 @@
 import Header from "./Header"
-import data from "./data"
+import data from "../data/data"
 import Tech from "./Tech"
 
 
