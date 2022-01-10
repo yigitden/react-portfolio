@@ -7,7 +7,7 @@ const Header = () => {
 
             <div className="header">
                 <div className="logo">
-                <Link to ="/"> <i className="fab fa-yammer"></i></Link>
+                <Link to ="/react-portfolio"> <i className="fab fa-yammer"></i></Link>
                     </div>
                 <div className="menu_list">
                     <ul>
