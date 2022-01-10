@@ -1,6 +1,6 @@
 import { Button, Card } from 'react-bootstrap';
 import Header from "./Header";
-import data from "./data"
+import data from "../data/data";
 
 
 
