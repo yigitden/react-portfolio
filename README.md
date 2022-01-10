@@ -1,3 +1,10 @@
+
+# Live Demo
+
+Live Demo : https://yigitden.github.io/react-portfolio
+
+You can edit all informations on ./data/data.json
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
