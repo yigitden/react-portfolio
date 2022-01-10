@@ -1,5 +1,4 @@
-const data =  {
-  
+export data {
   name: "Yigit",
   job: "Front-End Developer",
   text_main:"It's my portfolio site and I created this site with React",
@@ -88,5 +87,3 @@ const data =  {
   ]
 }
 
-
-export default data;
