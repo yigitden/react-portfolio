@@ -1,4 +1,4 @@
-export data {
+export default  {
   name: "Yigit",
   job: "Front-End Developer",
   text_main:"It's my portfolio site and I created this site with React",
